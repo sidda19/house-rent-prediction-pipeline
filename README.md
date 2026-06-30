@@ -1,4 +1,17 @@
-﻿# 🏠 House Rent Prediction Pipeline
+﻿---
+title: House Rent Prediction
+emoji: 🏠
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
+# 🏠 House Rent Prediction Pipeline
+
+An end-to-end Machine Learning application for predicting monthly house rent across multiple Indian cities...
+# 🏠 House Rent Prediction Pipeline
 
 An end-to-end Machine Learning application for predicting monthly house rent across multiple Indian cities. This project demonstrates the complete ML workflow, including data preprocessing, hyperparameter optimization, experiment tracking, model evaluation, Docker containerization, and deployment using Streamlit and Hugging Face Spaces.
 
@@ -6,8 +19,7 @@ An end-to-end Machine Learning application for predicting monthly house rent acr
 
 ## 🚀 Live Demo
 
-🔗 **Hugging Face:** *(Add your deployed Hugging Face Space URL here after deployment)*
-
+🔗 **Hugging Face:** https://huggingface.co/spaces/sidda19/house-rent-prediction
 ---
 
 ## 📌 Project Overview
@@ -185,7 +197,7 @@ The application is deployed on **Hugging Face Spaces** using Docker.
 
 **Live Demo:**
 
-👉 *(Add your Hugging Face Space link here after deployment.)*
+👉 https://huggingface.co/spaces/sidda19/house-rent-prediction
 
 ---
 
@@ -194,7 +206,7 @@ The application is deployed on **Hugging Face Spaces** using Docker.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/house-rent-prediction-pipeline.git
+git clone https://github.com/sidda19/house-rent-prediction-pipeline.git
 ```
 
 Navigate to the project directory:
