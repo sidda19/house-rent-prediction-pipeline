@@ -10,9 +10,6 @@ pinned: false
 
 # 🏠 House Rent Prediction Pipeline
 
-An end-to-end Machine Learning application for predicting monthly house rent across multiple Indian cities...
-# 🏠 House Rent Prediction Pipeline
-
 An end-to-end Machine Learning application for predicting monthly house rent across multiple Indian cities. This project demonstrates the complete ML workflow, including data preprocessing, hyperparameter optimization, experiment tracking, model evaluation, Docker containerization, and deployment using Streamlit and Hugging Face Spaces.
 
 ---
